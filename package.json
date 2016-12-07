@@ -1,6 +1,6 @@
 {
   "name": "aws-rekognition",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "AWS Deep learning-based image recognition",
   "main": "index.js",
   "scripts": {
