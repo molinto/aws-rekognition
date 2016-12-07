@@ -1,0 +1,27 @@
+{
+  "name": "aws-rekognition",
+  "version": "0.0.1",
+  "description": "AWS Deep learning-based image recognition",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/molinto/aws-rekognition.git"
+  },
+  "keywords": [
+    "rekognition",
+    "deep-learning",
+    "image",
+    "recognition",
+    "aws",
+    "lambda"
+  ],
+  "author": "Sharry Stowell <sharry@molinto.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/molinto/aws-rekognition/issues"
+  },
+  "homepage": "https://github.com/molinto/aws-rekognition#readme"
+}
